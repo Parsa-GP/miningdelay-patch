@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.r39ny.mpbreakparity.mpminingparity.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PlayerControllerMPMixin"
+  ],
+  "server": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
